@@ -1,6 +1,6 @@
 # CallTracer.in - Indian Mobile Number Tracker
 
-CallTracer.in is an online mobile number tracker website that allows you to trace and track the details of any Indian mobile number. With our mobile number tracker, you can easily find the name, address, and location of the mobile number owner on a map.
+CallTracer.in is an online [mobile number tracker](https://calltracer.in/) website that allows you to trace and track the details of any Indian mobile number. With our mobile number tracker, you can easily find the name, address, and location of the mobile number owner on a map.
 
 ## How to use CallTracer.in?
 
@@ -14,7 +14,7 @@ That's it! Our mobile number tracker will instantly provide you with all the inf
 
 ## What information can you get with CallTracer.in?
 
-With CallTracer.in, you can get all the details about an Indian mobile number, including:
+With CallTracer.in, you can get all the [mobile number details](https://calltracer.in/) about an Indian number, including:
 
 - The full name of the mobile number owner
 - The current address and location of the mobile number
@@ -23,7 +23,7 @@ With CallTracer.in, you can get all the details about an Indian mobile number, i
 
 ## Why use CallTracer.in?
 
-CallTracer.in is the best mobile number tracker in India for several reasons:
+CallTracer.in is the best [mobile number tracker](https://calltracer.in/) in India for several reasons:
 
 - Accurate and up-to-date information: Our database is constantly updated to provide you with the most accurate information possible.
 - Easy to use: Our website is user-friendly and intuitive, making it easy for anyone to trace the details of an Indian mobile number.
